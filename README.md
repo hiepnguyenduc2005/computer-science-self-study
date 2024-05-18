@@ -144,7 +144,7 @@
 <!-- Villanova Equivalent Courses: *CSC 4500*, *CSC 4505*, *CSC 4510*, *CSC 4598* -->
 
 ### E3.1. Introduction to Artificial Intelligence
-- Option 1. [Introduction to Artificial Intelligence](https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) *(UC Berkeley, CS188, YouTubd)*
+- Option 1. [Introduction to Artificial Intelligence](https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) *(UC Berkeley, CS188, YouTube)*
 - Option 2. [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) *(Harvard, CS50W, OpenCourseWare)*
 
 ### E3.2. Machine Learning
