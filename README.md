@@ -21,7 +21,7 @@
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) or [How to Design Program (HtDP)](https://htdp.org/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 
-## 2. Mathematics
+## 2. Mathemmatics
 <!-- Villanova Equivalent Courses: MAT 1500, *MAT 1505*, *MAT 2500*, MAT 2400, CSC 2300 *(STAT 4310)*, CSC 1300 -->
 ### 2.1. Calculus
 - [Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) *(MIT, 18.01SC, OpenCourseWare)*
@@ -97,13 +97,14 @@
 - [Transaction Processing: Concepts and Techniques](https://drive.google.com/file/d/1ewBjoKb-3i8sFmjU5MKRmcgW0VedzqMh/view?usp=sharing)
 - [Data and Reality](https://www.researchgate.net/profile/Ignacio-Gomez-Garcia/post/I-am-looking-for-the-book-Data-and-Reality-written-by-William-Kent-Does-someone-happen-to-have-apdf-version/attachment/5a92d7d2b53d2f0bba5435e8/AS%3A597946429091842%401519572946521/download/Kent+-+Data+and+reality.pdf)
 
-## 6. Tools
-<!-- Villanova Equivalent Courses: PHI 2180, CSC 1990, CSC 2053, CSC 4790 -->
+## 6. Tools & Applications
+<!-- Villanova Equivalent Courses: PHI 2180, CSC 1990, CSC 2053, CSC 4700, CSC 4790 -->
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) *(MIT)*
+- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) *(UBC, edX)*
 
 ## Electives/Specializations
-## E1. Software Development and Engineering
-<!-- Villanova Equivalent Courses: CSC 4700, *CSC 4181*, *CSC 4630*, *CSC 4730*, *CSC 4800*, *CSC 4810* -->
+## E1. Software Development
+<!-- Villanova Equivalent Courses: *CSC 4181*, *CSC 4630*, *CSC 4730*, *CSC 4800*, *CSC 4810* -->
 ### E1.1. HTML, CSS, JavaScript Fundamentals
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) *(FreeCodeCamp)*
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) *(FreeCodeCamp)*
@@ -112,13 +113,10 @@
 - [CS50's Introduction to Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) *(Harvard, CS50W, OpenCourseWare)*
 - [Full Stack Open](https://fullstackopen.com/en/) *(Helsinki)*
 
-### E1.4. Mobile App Development (Android - Kotlin, IOS - Swift)
+### E1.3. Mobile App Development (Android - Kotlin, IOS - Swift)
 - [Software Engineering - Building Mobile Applications & Dynamic Websites](https://www.youtube.com/playlist?list=PLyxHxetqYO9j_A_veu4dPWXuYV2gw4PzK) *(Harvard, CS164, YouTube)*
 
-### E1.4. Software Engineering
-- Required. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) *(UBC, edX)*
-
-### E1.5. Human-Computer Interaction (HCI)
+### E1.4. Human-Computer Interaction (HCI)
 - [Human-Computer Interaction Professional Certificate](https://www.edx.org/professional-certificate/gtx-human-computer-interaction) *(GaTech, edX)*
 
 
