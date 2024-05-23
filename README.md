@@ -51,10 +51,9 @@
 ## 3. Theory
 <!-- Villanova Equivalent Courses: CSC 1052, CSC 1700, CSC 4170 -->
 ### 3.1. Data Structures and Algorithms (DSA)
-- Option 1. [Data Structures](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C/) *(UC Berkeley, CS61B)*
-- Option 2. [Programming Abstractions](https://see.stanford.edu/Course/CS106B/) *(Stanford, CS106B)*
+- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) *(Princeton, COS206, Coursera)*
 
-### 3.2. Analysis of Algorithms
+### 3.2. Design and Analysis of Algorithms
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) *(Stanford, CS161, Coursera)*
 
 ### 3.3. Theory of Computation
