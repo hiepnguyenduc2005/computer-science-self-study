@@ -54,10 +54,8 @@
 - Option 1. [Data Structures](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C/) *(UC Berkeley, CS61B)*
 - Option 2. [Programming Abstractions](https://see.stanford.edu/Course/CS106B/) *(Stanford, CS106B)*
 
-
 ### 3.2. Analysis of Algorithms
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) *(Stanford, CS161, Coursera)*
-- [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) *(MIT, 6.046J, OpenCourseWare)*
 
 ### 3.3. Theory of Computation
 - [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) *(MIT, 18.404J, OpenCourseWare)*
