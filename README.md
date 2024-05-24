@@ -21,7 +21,7 @@
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) or [How to Design Program (HtDP)](https://htdp.org/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 
-## 2. Mathemmatics
+## 2. Mathematics
 <!-- Villanova Equivalent Courses: MAT 1500, *MAT 1505*, *MAT 2500*, MAT 2400, CSC 2300 *(STAT 4310)*, CSC 1300 -->
 ### 2.1. Calculus
 - [Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) *(MIT, 18.01SC, OpenCourseWare)*
@@ -50,10 +50,7 @@
 
 ## 3. Theory
 <!-- Villanova Equivalent Courses: CSC 1052, CSC 1700, CSC 4170 -->
-### 3.1. Data Structures and Algorithms (DSA)
-- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) *(Princeton, COS206, Coursera)*
-
-### 3.2. Design and Analysis of Algorithms
+### 3.1. Data Structures and Algorithms (DSA), 3.2. Design and Analysis of Algorithms
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) *(Stanford, CS161, Coursera)*
 
 ### 3.3. Theory of Computation
