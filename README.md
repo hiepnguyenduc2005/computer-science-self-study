@@ -50,8 +50,8 @@
 
 ## 3. Theory
 <!-- Villanova Equivalent Courses: CSC 1052, CSC 1700, CSC 4170 -->
-### 3.1. Data Structures and Algorithms (DSA), 3.2. Design and Analysis of Algorithms
-- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) *(Stanford, CS161, Coursera)*
+### 3.1. Data Structures and Algorithms (DSA)
+- [Design and Analysis of Algorithms Specialization](https://www.coursera.org/specializations/algorithms) *(Stanford, CS161, Coursera)*
 
 ### 3.3. Theory of Computation
 - [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) *(MIT, 18.404J, OpenCourseWare)*
