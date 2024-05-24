@@ -140,7 +140,7 @@
 
 ### E3.1. Introduction to Artificial Intelligence
 - Option 1. [Introduction to Artificial Intelligence](https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) *(UC Berkeley, CS188, YouTube)*
-- Option 2. [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) *(Harvard, CS50W, OpenCourseWare)*
+- Option 2. [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) *(Harvard, CS50AI, OpenCourseWare)*
 
 ### E3.2. Machine Learning
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) *(Stanford, CS229, Coursera)*
