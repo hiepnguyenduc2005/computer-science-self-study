@@ -41,6 +41,7 @@
 ### 2.5. Advanced Topics
 - Elective. [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) *(MIT, 18.03SC, OpenCourseWare)*
 - Elective. [Optimization](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html) *(CMU, 10.725, YouTube)*
+- Elective. [Introduction To Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) *(MIT, 18.335J, OpenCourseWare)*
 
 ### *Recommended Books*
 - [Calculus - Early Transcendentals](http://repo.darmajaya.ac.id/5069/1/Calculus%20Early%20Transcendentals%20Ninth%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%20%28z-lib.org%29.pdf)
