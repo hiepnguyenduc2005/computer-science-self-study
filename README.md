@@ -25,7 +25,7 @@
 <!-- Villanova Equivalent Courses: MAT 1500, *MAT 1505*, *MAT 2500*, MAT 2400, CSC 2300 *(STAT 4310)*, CSC 1300 -->
 ### 2.1. Calculus
 - [Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) *(MIT, 18.01SC, OpenCourseWare)*
-- Elective. [Mutlivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) *(MIT, 18.02SC, OpenCourseWare)*
+- Advanced. [Mutlivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) *(MIT, 18.02SC, OpenCourseWare)*
 
 ### 2.2. Linear Algebra
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) *(3Blue1Brown, YouTube)*
