@@ -14,7 +14,7 @@
 
 ### 1.4. Languages and Compilers
 - [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) *(UW, CSE341, Coursera)*
-- Elective. [Compilers](https://www.edx.org/course/compilers/) *(Stanford, CS143, edX)*
+- Advanced. [Compilers](https://www.edx.org/course/compilers/) *(Stanford, CS143, edX)*
 
 ### *Recommended Books*
 - [Python for Everybody (PY4E)](https://www.py4e.com/book)
@@ -39,9 +39,9 @@
 - [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) *(Stanford, Coursera)*
 
 ### 2.5. Advanced Topics
-- Elective. [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) *(MIT, 18.03SC, OpenCourseWare)*
-- Elective. [Optimization](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html) *(CMU, 10.725, YouTube)*
-- Elective. [Introduction To Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) *(MIT, 18.335J, OpenCourseWare)*
+- Advanced. [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) *(MIT, 18.03SC, OpenCourseWare)*
+- Advanced. [Optimization](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html) *(CMU, 10.725, YouTube)*
+- Advanced. [Introduction To Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) *(MIT, 18.335J, OpenCourseWare)*
 
 ### *Recommended Books*
 - [Calculus - Early Transcendentals](http://repo.darmajaya.ac.id/5069/1/Calculus%20Early%20Transcendentals%20Ninth%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%20%28z-lib.org%29.pdf)
@@ -73,7 +73,7 @@
 - [Computer Networking: a Top Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) *(UMass, CS453)*
 
 ### 4.4. Distributed Systems
-- Elective. [Distributed Systems, recording](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB), [reading](https://pdos.csail.mit.edu/6.824/schedule.html) *(MIT, 6.824, YouTube)*
+- Advanced. [Distributed Systems, recording](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB), [reading](https://pdos.csail.mit.edu/6.824/schedule.html) *(MIT, 6.824, YouTube)*
 
 ### *Recommended Books*
 - **[Computer Systems: A Programmer's Perspective (CS:APP)](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf)**
@@ -111,10 +111,6 @@
 ### E1.3. Mobile App Development (Android - Kotlin, IOS - Swift)
 - [Software Engineering - Building Mobile Applications & Dynamic Websites](https://www.youtube.com/playlist?list=PLyxHxetqYO9j_A_veu4dPWXuYV2gw4PzK) *(Harvard, CS164, YouTube)*
 
-### E1.4. Human-Computer Interaction (HCI)
-- [Human-Computer Interaction Professional Certificate](https://www.edx.org/professional-certificate/gtx-human-computer-interaction) *(GaTech, edX)*
-
-
 ## E2. Data Science
 <!-- Villanova Equivalent Courses: *CSC 4550* *(STAT 4380)*, *CSC 4490* *(STAT 4480)* -->
 ### E2.1. Fundamentals
@@ -126,9 +122,6 @@
 
 ### E2.3. Data Mining
 - [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) *(Stanford, edX)*
-
-### E2.4. Big Data
-- [Big Data](https://www.coursera.org/specializations/big-data) *(UCSD, Coursera)*
 
 ### *Recommended Books*
 - [Python Data Science Handbook](https://dn720004.ca.archive.org/0/items/python-data-science-handbook.pdf/Python%20Data%20Science%20Handbook.pdf) or [Python for Data Analysis](https://edisciplinas.usp.br/pluginfile.php/7880239/mod_folder/content/0/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis_%20Data%20Wrangling%20with%20pandas%2C%20NumPy%2C%20and%20Jupyter-OReilly%20Media%20%282022%29.pdf?forcedownload=1)
@@ -143,9 +136,8 @@
 ### E3.2. Machine Learning
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) *(Stanford, CS229, Coursera)*
 
-### E3.3. Deep Learning and Applications
+### E3.3. Deep Learning
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) *(Stanford, CS230, Coursera)*
-- [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) *(DeepLearning.AI, Coursera)*
 
 ### *Recommended Books*
 - [Artificial Intelligence: A Modern Approach](https://dl.ebooksworld.ir/books/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russell.Pearson.9780134610993.EBooksWorld.ir.pdf)
