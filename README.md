@@ -1,25 +1,22 @@
 # Undergraduate CS Topics
 
-## 1. Programming
-<!-- Villanova Equivalent Courses: CSC 1051, CSC 1052, CSC 2053, CSC 1800, *CSC 4181* -->
+## 1. Programming Fundamentals
+<!-- Villanova Equivalent Courses: CSC 1051, CSC 1052 -->
 ### 1.1. Introduction to Programming
 - Option 1. [Introduction to Computer Science & Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) *(MIT, 6.00.1x, edX)*
 - Option 2. [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/) *(Harvard, CS50P, OpenCourseWare)*
 
-### 1.2. Introduction to Computer Science
-- [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) *(Harvard, CS50x, OpenCourseWare)*
-
-### 1.3. Programming Paradigms
-- [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) *(MIT, 6.001 - SICP, OpenCourseWare)*
-
-### 1.4. Languages and Compilers
-- [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) *(UW, CSE341, Coursera)*
-- Advanced. [Compilers](https://www.edx.org/course/compilers/) *(Stanford, CS143, edX)*
-
+### 1.2. Object-Oriented Programming and Data Structures
+- Option 1 (Java). [Data Structures](https://www.youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8) *(UC Berkeley, CS61B, YouTube)*
+- Option 2 (C++). [Programming Abstractions](https://see.stanford.edu/Course/CS106B) *(Stanford, CS106B, Stanford Engineering Everywhere)*
+  
 ### *Recommended Books*
 - [Python for Everybody (PY4E)](https://www.py4e.com/book)
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) or [How to Design Program (HtDP)](https://htdp.org/)
-- [Crafting Interpreters](https://craftinginterpreters.com/)
+
+### *Special Treatments*
+- Overview. [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) *(Harvard, CS50x, OpenCourseWare)*
+- Programming Paradigms. [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) *(MIT, 6.001 - SICP, OpenCourseWare)*
 
 ## 2. Mathematics
 <!-- Villanova Equivalent Courses: MAT 1500, *MAT 1505*, *MAT 2500*, MAT 2400, CSC 2300 *(STAT 4310)*, CSC 1300 -->
@@ -50,12 +47,12 @@
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
 
 ## 3. Theory
-<!-- Villanova Equivalent Courses: CSC 1052, CSC 1700, CSC 4170 -->
+<!-- Villanova Equivalent Courses: CSC 1700, CSC 4170 -->
 ### 3.1. Design and Analysis of Algorithms
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) *(Stanford, CS161, Coursera)*
 
 ### 3.2. Theory of Computation
-- [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) *(MIT, 18.404J, OpenCourseWare)*
+- Advanced. [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) *(MIT, 18.404J, OpenCourseWare)*
 
 ### *Recommended Books*
 - [The Algorithm Design Manual](https://link.springer.com/book/10.1007/978-1-84800-070-4) or [Introduction to Algorithms (CLRS)](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
@@ -81,7 +78,15 @@
 - [Computer Networking: a Top Down Approach](https://github.com/TimorYang/Computer-Networking-Keith-Ross/blob/d059ae08f44e844f64ca72307cacc6117dec8ab9/book/Computer%20Networking_%20A%20Top-Down%20Approach%2C%20Global%20Edition%2C%208th%20Edition.pdf)
 - **[Designing Data-Intensive Applications](https://github.com/Sourav692/Data-Engineer-Books/blob/main/1.%20%20Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann.pdf)**
 
-## 5. Databases
+## 5. Programming Languages
+<!-- Villanova Equivalent Courses: CSC 1800, *CSC 4181* -->
+- [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) *(UW, CSE341, Coursera)*
+- Advanced. [Compilers](https://www.edx.org/course/compilers/) *(Stanford, CS143, edX)*
+
+### *Recommended Books*
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+
+## 6. Databases
 <!-- Villanova Equivalent Courses: CSC 4480 -->
 - [Databases, Part 1](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql), [Part 2](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql), [Part 3](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion), [Part 4](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory), [Part 5](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) *(Stanford, CS145, edX)*
 
@@ -92,19 +97,19 @@
 - [Transaction Processing: Concepts and Techniques](https://drive.google.com/file/d/1ewBjoKb-3i8sFmjU5MKRmcgW0VedzqMh/view?usp=sharing)
 - [Data and Reality](https://www.researchgate.net/profile/Ignacio-Gomez-Garcia/post/I-am-looking-for-the-book-Data-and-Reality-written-by-William-Kent-Does-someone-happen-to-have-apdf-version/attachment/5a92d7d2b53d2f0bba5435e8/AS%3A597946429091842%401519572946521/download/Kent+-+Data+and+reality.pdf)
 
-## 6. Tools & Applications
+## 7. Tools & Applications
 <!-- Villanova Equivalent Courses: PHI 2180, CSC 1990, CSC 2053, CSC 4700, CSC 4790 -->
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) *(MIT)*
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) *(UBC, edX)*
 
 ## Electives/Specializations
 ## E1. Software Development
-<!-- Villanova Equivalent Courses: *CSC 4181*, *CSC 4630*, *CSC 4730*, *CSC 4800*, *CSC 4810* -->
+<!-- Villanova Equivalent Courses: *CSC 4630*, *CSC 4730*, *CSC 4800*, *CSC 4810* -->
 ### E1.1. HTML, CSS, JavaScript Fundamentals
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) *(FreeCodeCamp)*
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) *(FreeCodeCamp)*
 
-### E1.2. Full Stack Web Development (MERN)
+### E1.2. Full Stack Web Development
 - [CS50's Introduction to Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) *(Harvard, CS50W, OpenCourseWare)*
 - [Full Stack Open](https://fullstackopen.com/en/) *(Helsinki)*
 
@@ -121,7 +126,7 @@
 - Option 2. [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) *(JHU, Coursera)*
 
 ### E2.3. Data Mining
-- [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) *(Stanford, edX)*
+- Advanced. [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) *(Stanford, edX)*
 
 ### *Recommended Books*
 - [Python Data Science Handbook](https://dn720004.ca.archive.org/0/items/python-data-science-handbook.pdf/Python%20Data%20Science%20Handbook.pdf) or [Python for Data Analysis](https://edisciplinas.usp.br/pluginfile.php/7880239/mod_folder/content/0/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis_%20Data%20Wrangling%20with%20pandas%2C%20NumPy%2C%20and%20Jupyter-OReilly%20Media%20%282022%29.pdf?forcedownload=1)
@@ -137,7 +142,7 @@
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) *(Stanford, CS229, Coursera)*
 
 ### E3.3. Deep Learning
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) *(Stanford, CS230, Coursera)*
+- Advanced. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) *(Stanford, CS230, Coursera)*
 
 ### *Recommended Books*
 - [Artificial Intelligence: A Modern Approach](https://dl.ebooksworld.ir/books/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russell.Pearson.9780134610993.EBooksWorld.ir.pdf)
