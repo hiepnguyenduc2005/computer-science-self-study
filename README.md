@@ -14,7 +14,7 @@
 - [Python for Everybody (PY4E)](https://www.py4e.com/book)
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) or [How to Design Program (HtDP)](https://htdp.org/)
 
-### *Special Treatments*
+### *Special Treatment*
 - Overview. [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) *(Harvard, CS50x, OpenCourseWare)*
 - Programming Paradigms. [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) *(MIT, 6.001 - SICP, OpenCourseWare)*
 
