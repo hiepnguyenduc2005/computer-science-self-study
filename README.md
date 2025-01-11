@@ -111,10 +111,11 @@
 
 ### E1.2. Full Stack Web Development
 - [CS50's Introduction to Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) *(Harvard, CS50W, OpenCourseWare)*
-- [Full Stack Open](https://fullstackopen.com/en/) *(Helsinki)*
+- [Full Stack Open: Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) *(Helsinki)*
 
-### E1.3. Mobile App Development (Android - Kotlin, IOS - Swift)
-- [Software Engineering - Building Mobile Applications & Dynamic Websites](https://www.youtube.com/playlist?list=PLyxHxetqYO9j_A_veu4dPWXuYV2gw4PzK) *(Harvard, CS164, YouTube)*
+### E1.3. Mobile App Development
+- Option 1 (IOS - Swift). [Developing Applications for iOS using SwiftUI](https://cs193p.sites.stanford.edu/) *(Stanford, CS193p, YouTube)*
+- Option 2 (Android - Kotlin). [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) *(Google)*
 
 ## E2. Data Science
 <!-- Villanova Equivalent Courses: *CSC 4550* *(STAT 4380)*, *CSC 4490* *(STAT 4480)* -->
